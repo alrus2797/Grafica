@@ -1,4 +1,4 @@
-#Prácticas de Laboratorio de Gráfica
+# Prácticas de Laboratorio de Gráfica
     Practicas de Laboratorio del curso de Computación Grafica
 ## Lab1-2D
     - Graficado de líneas en 2D
